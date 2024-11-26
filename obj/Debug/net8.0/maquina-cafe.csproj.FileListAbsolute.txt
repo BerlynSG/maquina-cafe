@@ -12,3 +12,4 @@
 /mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.pdb
 /mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.genruntimeconfig.cache
 /mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/ref/maquina-cafe.dll
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.sourcelink.json
