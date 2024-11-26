@@ -1,0 +1,14 @@
+/mnt/sda1/Software Development/maquina-cafe/bin/Debug/net8.0/maquina-cafe
+/mnt/sda1/Software Development/maquina-cafe/bin/Debug/net8.0/maquina-cafe.deps.json
+/mnt/sda1/Software Development/maquina-cafe/bin/Debug/net8.0/maquina-cafe.runtimeconfig.json
+/mnt/sda1/Software Development/maquina-cafe/bin/Debug/net8.0/maquina-cafe.dll
+/mnt/sda1/Software Development/maquina-cafe/bin/Debug/net8.0/maquina-cafe.pdb
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.AssemblyInfoInputs.cache
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.AssemblyInfo.cs
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.csproj.CoreCompileInputs.cache
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.dll
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/refint/maquina-cafe.dll
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.pdb
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/maquina-cafe.genruntimeconfig.cache
+/mnt/sda1/Software Development/maquina-cafe/obj/Debug/net8.0/ref/maquina-cafe.dll
