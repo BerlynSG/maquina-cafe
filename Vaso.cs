@@ -3,6 +3,7 @@ public class Vaso
     int cantidadVasos;
     int contenido;
 
+
     public void setCantidadVasos(int cantidadVasos){
         this.cantidadVasos = cantidadVasos;
     }
